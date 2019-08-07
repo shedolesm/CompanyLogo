@@ -1,2 +1,4 @@
-Flask
-Sample Comapny data
+flask
+gunicorn
+flask-heroku
+CompaniesList.json
